@@ -6,12 +6,30 @@ Intro
 
 A light introduction to MongoDB with some hands-on exercises.
 
+* Big data
+* Analysis
+* Replication
+* Scalability
+* 
+
 ##What will be covered
 
 * What is MongoDB?
 * JSON
 * Using the MongoDB shell
 * CRUD operations
+
+NoSQL
+-----
+
+* Types:
+    * Key-value
+    * Column family
+    * Document
+    * Graph
+
+* http://blog.scottlogic.com/2014/08/04/mongodb-vs-couchdb.html
+* http://www.monitis.com/blog/2011/05/22/picking-the-right-nosql-database-tool/
 
 What is MongoDB?
 ----------------
