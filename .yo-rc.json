@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "MongoDB 101",
+    "packageVersion": "0.0.1",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mmunhall",
+    "githubRepository": "mongodb-101-preso"
+  }
+}

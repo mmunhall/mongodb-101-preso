@@ -1,0 +1,49 @@
+MongoDB 101
+===========
+
+Intro
+-----
+
+A light introduction to MongoDB with some hands-on exercises.
+
+##What will be covered
+
+* What is MongoDB?
+* JSON
+* Using the MongoDB shell
+* CRUD operations
+
+What is MongoDB?
+----------------
+
+Important Mongo Features
+------------------------
+
+* Horizontal scaling (sharding)
+* Replication
+* Database design
+* Performance tuning (indexes)
+* Administration
+* Aggregation framework
+* Drivers (language integration)
+
+NoSQL
+-----
+
+Polyglot Persistence
+--------------------
+
+JSON (JavaScript Object Notation)
+---------------------------------
+
+* A lightweight data-interchange format
+* Similar to XML in function and purpose
+* Not JavaScript, but works natively in JavaScript
+
+[demo]
+
+Resources
+---------
+
+* mongodb.com
+* university.mongodb.com
