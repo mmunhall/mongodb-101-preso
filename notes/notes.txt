@@ -29,7 +29,8 @@ NoSQL
 
 * http://blog.scottlogic.com/2014/08/04/mongodb-vs-couchdb.html
 * http://www.monitis.com/blog/2011/05/22/picking-the-right-nosql-database-tool/
-*http://ksat.me/a-plain-english-introduction-to-cap-theorem/
+* http://ksat.me/a-plain-english-introduction-to-cap-theorem/
+* http://robertgreiner.com/2014/08/cap-theorem-revisited/
 
 What is MongoDB?
 ----------------
