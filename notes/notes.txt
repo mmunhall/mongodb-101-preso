@@ -10,7 +10,6 @@ A light introduction to MongoDB with some hands-on exercises.
 * Analysis
 * Replication
 * Scalability
-* 
 
 ##What will be covered
 
@@ -30,12 +29,16 @@ NoSQL
 
 * http://blog.scottlogic.com/2014/08/04/mongodb-vs-couchdb.html
 * http://www.monitis.com/blog/2011/05/22/picking-the-right-nosql-database-tool/
+*http://ksat.me/a-plain-english-introduction-to-cap-theorem/
 
 What is MongoDB?
 ----------------
 
 Important Mongo Features
 ------------------------
+
+* Extremely granular authentication, authorization, roles
+    * Integration with LDAP, etc.
 
 * Horizontal scaling (sharding)
 * Replication
@@ -59,6 +62,11 @@ JSON (JavaScript Object Notation)
 * Not JavaScript, but works natively in JavaScript
 
 [demo]
+
+For Cheaters
+------------
+
+Robomongo (http://www.robomongo.com)
 
 Resources
 ---------

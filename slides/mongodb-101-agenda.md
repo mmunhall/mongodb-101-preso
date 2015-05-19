@@ -6,5 +6,7 @@
 * CRUD with the Mongo Shell
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    * Topic of NoSQL deserves its own presentation
+    * MongoDB features that I won't be covering in depth
+    * JSON tutorial
+    * Most time will be spent creating, reading, updating, deleting documents.

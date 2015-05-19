@@ -1,5 +1,7 @@
 [
     "index.md",
     "mongodb-101-agenda.md",
-    "nosql.md"
+    "nosql.md",
+    "why-nosql.md",
+    "good-fast-cheap-pick-two.md"
 ]
