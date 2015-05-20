@@ -5,5 +5,6 @@
     "why-nosql.md",
     "good-fast-cheap-pick-two.md",
     "consistency-availability-partition-tolerance-pick-two.md",
-    "mongodb-features.md"
+    "mongodb-features.md",
+    "json.md"
 ]
