@@ -64,6 +64,39 @@ JSON (JavaScript Object Notation)
 
 [demo]
 
+* Mongod: Server
+* Mongo: CLI
+* Database
+    * Collections
+
+* [sudo] mongod
+    Starts mongo server using the default port
+
+* [sudo] mongo
+    Connects to mongo server on localhost:default port
+
+* cls
+    Clears screen
+
+* show dbs
+    Shows the databases on the system
+
+* use [db name]
+    Sets [db name] as the default database
+
+* show collections
+    Shows collections in the current database
+
+* db.[collection].insert({ /* ... */ });
+
+* db.[collection].find({ /* ... */ });
+
+* db.[collection].update({ /* ... */ });
+
+* db.[collection].remove({ /* ... */ });
+
+* [aggregation]
+
 For Cheaters
 ------------
 
